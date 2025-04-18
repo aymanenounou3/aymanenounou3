@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aymane Nounou</h1>
-<h3 align="center">IT-Student in Germany</h3>
+<h3 align="center">IT-Student</h3>
 
 - 📫 How to reach me **aymanenounou03@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
